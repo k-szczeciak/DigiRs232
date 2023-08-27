@@ -1,0 +1,203 @@
+# Created by Ultra Librarian Gold 8.3.302 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+Grid mil;
+Set Wire_Bend 2;
+
+
+Edit 'CONN_10103594-0001LF_AMP.pac';
+Grid Mil;
+Layer 1;
+Smd '1' 16 69 -0 R0 (-51.1811 110.5);
+Layer 1;
+Smd '2' 16 69 -0 R0 (-25.5905 110.5);
+Layer 1;
+Smd '3' 16 69 -0 R0 (0 110.5);
+Layer 1;
+Smd '4' 16 69 -0 R0 (25.5905 110.5);
+Layer 1;
+Smd '5' 16 69 -0 R0 (51.1811 110.5);
+Layer 1;
+Smd '6' 79 57 -0 R0 (-114.1732 118.5709);
+Layer 1;
+Smd '7' 79 57 -0 R0 (114.1732 118.5709);
+Layer 1;
+Smd '8' 56 98 -0 R0 (-37.8937 -10.563);
+Layer 1;
+Smd '9' 56 98 -0 R0 (37.8937 -10.563);
+Layer 1;
+Smd '10' 51 124 -0 R0 (-107.2834 17.9803);
+Change Drill 28;
+Pad 'S_3_H1' Round 0 28 R0 (-107 9);
+Change Drill 28;
+Pad 'S_3_H2' Round 0 28 R0 (-107 -10);
+Change Drill 26;
+Pad 'S_1_H1' Round 0 26 R0 (-95 126);
+Change Drill 26;
+Pad 'S_1_H2' Round 0 26 R0 (-95 111);
+Change Drill 26;
+Pad 'S_2_H1' Round 0 26 R0 (95 126);
+Change Drill 26;
+Pad 'S_2_H2' Round 0 26 R0 (95 111);
+Change Drill 28;
+Pad 'S_4_H1' Round 0 28 R0 (107 9);
+Change Drill 28;
+Pad 'S_4_H2' Round 0 28 R0 (107 -10);
+Layer 1;
+Smd '12' 51 124 -0 R0 (107.2834 17.9803);
+Layer 1;
+Layer 1;
+Change Spacing 50;
+Change Pour solid;
+Polygon 1  (-153.6732 79.9803) (-153.6732 51.9803) (-81.7834 51.9803) (-81.7834 79.9803) (-153.6732 79.9803);
+Layer 1;
+Change Spacing 50;
+Change Pour solid;
+Polygon 1  (153.6732 79.9803) (153.6732 51.9803) (81.7834 51.9803) (81.7834 79.9803) (153.6732 79.9803);
+Layer 21;
+Wire 6 (-164 -116) (164 -116);
+Wire 6 (164 -116) (164 43);
+Wire 6 (-164 43) (-164 -116);
+Wire 20 (-218 110) -180 (-248 110);
+Wire 20 (-248 110) -180 (-218 111);
+Layer 51;
+Wire 6 (-158 -110) (158 -110);
+Wire 6 (158 -110) (158 110);
+Wire 6 (158 110) (-158 110);
+Wire 6 (-158 110) (-158 -110);
+Wire 20 (-36 186) -180 (-66 186);
+Wire 20 (-66 186) -180 (-36 186);
+Layer 22;
+Wire 20 (-218 110) -180 (-248 110);
+Wire 20 (-248 110) -180 (-218 111);
+Layer 49;
+Wire 26 (-95 111) (-95 126);
+Wire 26 (95 111) (95 126);
+Wire 28 (-107 -10) (-107 9);
+Wire 28 (107 -10) (107 9);
+Layer 29;
+Layer 29;
+Change Spacing 50;
+Change Pour solid;
+Polygon 1  (153.6732 79.9803) (153.6732 51.9803) (81.7834 51.9803) (81.7834 79.9803) (153.6732 79.9803);
+Layer 29;
+Change Spacing 50;
+Change Pour solid;
+Polygon 1  (-153.6732 79.9803) (-153.6732 51.9803) (-81.7834 51.9803) (-81.7834 79.9803) (-153.6732 79.9803);
+Layer 31;
+Layer 31;
+Change Spacing 50;
+Change Pour solid;
+Polygon 1  (153.6732 79.9803) (153.6732 51.9803) (81.7834 51.9803) (81.7834 79.9803) (153.6732 79.9803);
+Layer 31;
+Change Spacing 50;
+Change Pour solid;
+Polygon 1  (-153.6732 79.9803) (-153.6732 51.9803) (-81.7834 51.9803) (-81.7834 79.9803) (-153.6732 79.9803);
+Layer 25;
+Change Size 50;
+Change Ratio 6;
+Text '>Name' SR0 (-129 86);
+Layer 27;
+Change Size 50;
+Change Ratio 6;
+Text '>Value' SR0 (-68 86);
+
+Edit 'CONN_005P_000C_1.sym';
+Grid Mil;
+Layer 94;
+Pin '1' Pas None Middle R0 Pad 0 (0 0)
+Pin '2' Pas None Middle R0 Pad 0 (0 -100)
+Pin '3' Pas None Middle R0 Pad 0 (0 -200)
+Pin '4' Pas None Middle R0 Pad 0 (0 -300)
+Pin '5' Pas None Middle R0 Pad 0 (0 -400)
+Wire 6 (400 0) (200 0);
+Wire 6 (400 -100) (200 -100);
+Wire 6 (400 -200) (200 -200);
+Wire 6 (400 -300) (200 -300);
+Wire 6 (400 -400) (200 -400);
+Wire 6 (400 0) (350 33);
+Wire 6 (400 -100) (350 -67);
+Wire 6 (400 -200) (350 -167);
+Wire 6 (400 -300) (350 -267);
+Wire 6 (400 -400) (350 -367);
+Wire 6 (400 0) (350 -33);
+Wire 6 (400 -100) (350 -133);
+Wire 6 (400 -200) (350 -233);
+Wire 6 (400 -300) (350 -333);
+Wire 6 (400 -400) (350 -433);
+Wire 6 (200 100) (200 -500);
+Wire 6 (200 -500) (500 -500);
+Wire 6 (500 -500) (500 100);
+Wire 6 (500 100) (200 100);
+Layer 97;
+Layer 95;
+Change Size 82;
+Change Ratio 6;
+Text '>Name' SR0 (164 209);
+
+Edit 'CONN_005P_000C_2.sym';
+Grid Mil;
+Layer 94;
+Pin '1' Pas None Middle R0 Pad 0 (0 0)
+Pin '2' Pas None Middle R0 Pad 0 (0 -100)
+Pin '3' Pas None Middle R0 Pad 0 (0 -200)
+Pin '4' Pas None Middle R0 Pad 0 (0 -300)
+Pin '5' Pas None Middle R0 Pad 0 (0 -400)
+Wire 6 (300 0) (200 0);
+Wire 6 (300 -100) (200 -100);
+Wire 6 (300 -200) (200 -200);
+Wire 6 (300 -300) (200 -300);
+Wire 6 (300 -400) (200 -400);
+Wire 6 (300 0) (350 33);
+Wire 6 (300 -100) (350 -67);
+Wire 6 (300 -200) (350 -167);
+Wire 6 (300 -300) (350 -267);
+Wire 6 (300 -400) (350 -367);
+Wire 6 (300 0) (350 -33);
+Wire 6 (300 -100) (350 -133);
+Wire 6 (300 -200) (350 -233);
+Wire 6 (300 -300) (350 -333);
+Wire 6 (300 -400) (350 -433);
+Wire 6 (200 100) (200 -500);
+Wire 6 (200 -500) (500 -500);
+Wire 6 (500 -500) (500 100);
+Wire 6 (500 100) (200 100);
+Layer 97;
+Layer 95;
+Change Size 82;
+Change Ratio 6;
+Text '>Name' SR0 (164 209);
+
+Edit 'CONN_005P_000C_3.sym';
+Grid Mil;
+Layer 94;
+Pin '1' Pas None Middle R0 Pad 0 (0 0)
+Pin '2' Pas None Middle R0 Pad 0 (0 -100)
+Pin '3' Pas None Middle R0 Pad 0 (0 -200)
+Pin '4' Pas None Middle R0 Pad 0 (0 -300)
+Pin '5' Pas None Middle R0 Pad 0 (0 -400)
+Wire 6 (200 100) (200 -500);
+Wire 6 (200 -500) (500 -500);
+Wire 6 (500 -500) (500 100);
+Wire 6 (500 100) (200 100);
+Layer 97;
+Layer 95;
+Change Size 82;
+Change Ratio 6;
+Text '>Name' SR0 (164 209);
+
+Edit '10103594-0001LF.dev';
+Prefix 'J';
+Description '';
+Value Off;
+Add CONN_005P_000C_1 'A' Next  0 (0 0);
+Package 'CONN_10103594-0001LF_AMP';
+Technology '';
+Attribute Copyright 'Copyright (C) 2021 Ultra Librarian. All rights reserved.';
+Attribute Mfr_Name 'Amphenol ICC';
+Attribute Manufacturer_Part_Number '10103594-0001LF';
+Connect 'A.1' '1';
+Connect 'A.2' '2';
+Connect 'A.3' '3';
+Connect 'A.4' '4';
+Connect 'A.5' '5';
