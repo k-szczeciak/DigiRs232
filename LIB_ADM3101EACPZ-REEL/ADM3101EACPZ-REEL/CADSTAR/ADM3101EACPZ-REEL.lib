@@ -1,0 +1,16 @@
+.ADM3101EACPZ-REEL :1 ;RS-232 Interface IC 3.3V 1 Driver 1 Reciever Tranciever 15kV
+QFN50P300X300X80-13N-D
+*STM IC
+*NGS
+*PLB 1="C1+" 2="ROUT" 3="TIN" 4="V+" 5="VCC" 6="GND" 7="V-" 8="TOUT" 9="RIN" 10="C2-" 11="C2+" 12="C1-" 13="EP"
+*MXP 13
+*DFN ADM3101EACPZ-REEL
+~!Mouser Part Number (584-ADM3101EACPZ-R)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADM3101EACPZ-REEL?qs=BpaRKvA4VqEzL%2FUEa%252BmMLg%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (ADM3101EACPZ-REEL)
+~!Link Datasheet (https://www.mouser.in/datasheet/2/609/ADM3101E-1503349.pdf)
+~!Height (0.8mm)
+~!3D_Model (ADM3101EACPZ-REEL)
+ADM3101EACPZ-REEL
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 9.1!U 8.1!U 7.1!U 13.1!U 12.1!U 11.1!U 10.1!U 

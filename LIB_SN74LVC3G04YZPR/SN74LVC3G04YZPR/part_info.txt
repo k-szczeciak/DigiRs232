@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=SN74LVC3G04YZPR
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=8
+Version=1.1
+Released=2023-05-10 09:48:02
+Downloaded=2023-09-08 09:31:49
+3D=Y

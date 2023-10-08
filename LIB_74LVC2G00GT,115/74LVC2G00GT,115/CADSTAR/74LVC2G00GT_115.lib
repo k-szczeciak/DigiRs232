@@ -1,0 +1,16 @@
+.74LVC2G00GT_115 :1 ;74LVC2G00 - Dual 2-input NAND gate@en-us
+"74AVC9112GTX"
+*STM IC
+*NGS
+*PLB 1="1A" 2="1B" 3="2Y" 4="GND" 5="2A" 6="2B" 7="1Y" 8="VCC"
+*MXP 8
+*DFN 74LVC2G00GT_115
+~!Mouser Part Number (771-LVC2G00GT115)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC2G00GT115/?qs=me8TqzrmIYWD5dayJ1NSYA%3D%3D)
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (74LVC2G00GT,115)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/74LVC2G00.pdf)
+~!Height (0.5mm)
+~!3D_Model (74LVC2G00GT,115)
+"74LVC2G00GT_115"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

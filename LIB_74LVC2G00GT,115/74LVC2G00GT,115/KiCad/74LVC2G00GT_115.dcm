@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC2G00GT,115
+D 74LVC2G00 - Dual 2-input NAND gate@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/74LVC2G00.pdf
+$ENDCMP
+#
+#End Doc Library

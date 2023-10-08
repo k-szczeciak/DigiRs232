@@ -1,0 +1,16 @@
+.S7221-45R :1 ;EMI Gaskets, Sheets, Absorbers & Shielding EMC Spring Contact 1.23mm high
+S722145R
+*STM J
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN S7221-45R
+~!Mouser Part Number (855-S7221-45R)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Harwin/S7221-45R?qs=pffCcXpkxLxI%252B2oy4ryQHw%3D%3D)
+~!Manufacturer_Name (Harwin)
+~!Manufacturer_Part_Number (S7221-45R)
+~!Link Datasheet (https://cdn.harwin.com/pdfs/S7221-45R.pdf)
+~!Height (1.23mm)
+~!3D_Model (S7221-45R)
+S7221-45R
+1.1!U 2.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Harwin
+PartNumber=S7221-45R
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2020-05-19 09:37:54
+Downloaded=2023-09-08 13:28:53
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADM3101EACPZ_REEL'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADM3101EACPZ-REEL" (!) = "", "QFN50P300X300X80-13N-D", "Quad Flat No-Lead", "584-ADM3101EACPZ-R", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADM3101EACPZ-REEL?qs=BpaRKvA4VqEzL%2FUEa%252BmMLg%3D%3D", "RS-232 Interface IC 3.3V 1 Driver 1 Reciever Tranciever 15kV", "https://www.mouser.in/datasheet/2/609/ADM3101E-1503349.pdf", "0.8 mm"
+END_PART
+
+END.

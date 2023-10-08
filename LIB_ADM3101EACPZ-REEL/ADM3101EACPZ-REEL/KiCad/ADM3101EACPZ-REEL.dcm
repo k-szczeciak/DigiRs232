@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM3101EACPZ-REEL
+D RS-232 Interface IC 3.3V 1 Driver 1 Reciever Tranciever 15kV
+K
+F https://www.mouser.in/datasheet/2/609/ADM3101E-1503349.pdf
+$ENDCMP
+#
+#End Doc Library

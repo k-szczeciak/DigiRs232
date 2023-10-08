@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'S7221_45R'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Harwin", "S7221-45R" (!) = "", "S722145R", "Other", "855-S7221-45R", "https://www.mouser.co.uk/ProductDetail/Harwin/S7221-45R?qs=pffCcXpkxLxI%252B2oy4ryQHw%3D%3D", "EMI Gaskets, Sheets, Absorbers & Shielding EMC Spring Contact 1.23mm high", "https://cdn.harwin.com/pdfs/S7221-45R.pdf", "1.23 mm"
+END_PART
+
+END.

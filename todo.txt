@@ -1,0 +1,5 @@
+zmiana dcd na qfn i wieksze napiecie
+poprawic layout
+zminana ngate na inny package VSSOP "SN74LVC3G04DCU" (3.2x2.1mm) zamiast bga: (2x1mm)
+
+zamiana dcdc z 5 na 3v3 na 5-25 na 3v3: zmiana opisu rowniz

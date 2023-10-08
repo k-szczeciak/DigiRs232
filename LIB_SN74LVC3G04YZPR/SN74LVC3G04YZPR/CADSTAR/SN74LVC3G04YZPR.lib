@@ -1,0 +1,17 @@
+.SN74LVC3G04YZPR :1 ;Inverters TRIPLE INVERTER GATE
+BGA8C50P2X4_89X189X50
+*STM IC
+*NGS
+*PNM 1=A1 2=A2 3=B1 4=B2 5=C1 6=C2 7=D1 8=D2
+*PLB 1="1A" 2="VCC" 3="3Y" 4="1Y" 5="2A" 6="3A" 7="GND" 8="2Y"
+*MXP 8
+*DFN SN74LVC3G04YZPR
+~!Mouser Part Number (595-SN74LVC3G04YZPR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC3G04YZPR?qs=dT9u2OTAaVWej14EwaP%252BOQ%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (SN74LVC3G04YZPR)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/sn74lvc3g04.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1683639946467&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti)
+~!Height (0.5mm)
+~!3D_Model (SN74LVC3G04YZPR)
+SN74LVC3G04YZPR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

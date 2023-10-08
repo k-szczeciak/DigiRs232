@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "74AVC9112GTX"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "74AVC9112GTX")
+        (spec "default")
+    )
+)
