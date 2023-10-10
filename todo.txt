@@ -8,3 +8,8 @@ zamiana dcdc z 5 na 3v3 na 5-25 na 3v3: zmiana opisu rowniz
 2. 5V zasilania zamiast 3v3
 3. diody na wejsciu DRT i RTS, i rozdzielic
 4. inny package dla logiki NOT-ow
+
+
+
+sterowniki do rs232 usb:
+https://www.miklor.com/COM/UV_Drivers.php
